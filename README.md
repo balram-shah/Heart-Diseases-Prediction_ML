@@ -5,21 +5,20 @@ The system analyzes medical parameters and provides real-time predictions throug
 
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Dataset Description](#dataset-description)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Feature Engineering](#feature-engineering)
-- [Model Building & Comparison](#model-building--comparison)
-- [Web Application](#-web-application)
-- [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
-- [Installation Guide](#-installation-guide)
-- [Usage](#-usage)
-- [Results](#-results)
-- [Learning & Conclusion](#-learning--conclusion)
-- [Author](#-author)
+- [Project Overview](#Project-Overview)
+- [Problem Statement](#Problem-Statement)
+- [Dataset Description](#Dataset-Description)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Feature Engineering](#Feature-Engineering)
+- [Model Building & Comparison](#Model-Building--Comparison)
+- [Web Application](#-Web-Application)
+- [Project Structure](#-Project-Structure)
+- [Technologies Used](#-Technologies-Used)
+- [Installation Guide](#-Installation-Guide)
+- [Usage](#-Usage)
+- [Results](#-Results)
+- [Learning & Conclusion](#-Learning--Conclusion)
+- [Author](#-Author)
   
 ## 📊 Project Overview
 
@@ -67,7 +66,8 @@ Assist healthcare professionals with data-driven insights
 
 The dataset used in this project contains patient health records including attributes such as:
 
-Feature	Description
+### Feature	Description
+
 Age	Age of the patient
 Sex	Gender (1 = Male, 0 = Female)
 Chest Pain Type	Type of chest pain experienced
@@ -82,11 +82,12 @@ Slope	Slope of ST segment
 CA	Number of major vessels
 Thal	Thalassemia status
 Target	Presence of heart disease
-🧹 Data Preprocessing
+
+### 🧹 Data Preprocessing
 
 Before applying machine learning models, the dataset was cleaned and prepared.
 
-## Steps performed:
+### Steps performed:
 
 Handling missing values
 
@@ -227,7 +228,8 @@ heart-disease-prediction
 ├── heart_app_streamlit.py
 ├── requirements.txt
 └── README.md
-🛠 Technologies Used
+
+## 🛠 Technologies Used
 
 Python
 
@@ -298,10 +300,8 @@ Overall, the project demonstrates the potential of data science in healthcare de
 
 ## 👨‍💻 Author
 
-### Balram Shah
+ Balram Shah
 
-### GitHub: (your GitHub link)
-
-### LinkedIn: (your LinkedIn link)
+ GitHub: [(your GitHub link)](https://github.com/balram-shah)
 
 ## ⭐ If you found this project useful, consider giving it a star on GitHub
