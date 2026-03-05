@@ -18,7 +18,7 @@ The system analyzes medical parameters and provides real-time predictions throug
 - [Usage](#-Usage)
 - [Results](#-Results)
 - [Learning & Conclusion](#-Learning--Conclusion)
-- [Author](#-Author)
+- [Author](#--Author)
   
 ## 📊 Project Overview
 
