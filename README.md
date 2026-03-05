@@ -5,7 +5,7 @@ The system analyzes medical parameters and provides real-time predictions throug
 
 ## 📑 Table of Contents
 
-Project Overview
+[Project Overview](#-Project Overview)
 
 Problem Statement
 
