@@ -5,36 +5,22 @@ The system analyzes medical parameters and provides real-time predictions throug
 
 ## 📑 Table of Contents
 
-- [Project Overview](#-Project Overview)
-
-Problem Statement
-
-Dataset Description
-
-Data Preprocessing
-
-Exploratory Data Analysis
-
-Feature Engineering
-
-Model Building & Comparison
-
-Web Application
-
-Project Structure
-
-Technologies Used
-
-Installation Guide
-
-Usage
-
-Results
-
-Learning & Conclusion
-
-Author
-
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Dataset Description](#dataset-description)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Feature Engineering](#feature-engineering)
+- [Model Building & Comparison](#model-building--comparison)
+- [Web Application](#-web-application)
+- [Project Structure](#-project-structure)
+- [Technologies Used](#-technologies-used)
+- [Installation Guide](#-installation-guide)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Learning & Conclusion](#-learning--conclusion)
+- [Author](#-author)
+  
 ## 📊 Project Overview
 
 Heart disease is one of the leading causes of death worldwide, and early prediction can help reduce the risk of severe health complications.
