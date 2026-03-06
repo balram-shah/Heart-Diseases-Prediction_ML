@@ -125,7 +125,10 @@ These steps ensured the dataset was ready for reliable model training.
 This model provided the most balanced and reliable predictions.
 
 ## 🌐 Web Application
+AppLink: [(Web App link)](https://heart-diseases-prediction-ml-balramss.streamlit.app/)
 An interactive web application was developed using Streamlit.
+<img width="1910" height="1002" alt="image" src="https://github.com/user-attachments/assets/8d3d4565-a67d-482d-8f4c-43ba5f6f2699" />
+
 
 ## The app allows users to:
 ### 1️⃣ Dataset Overview
