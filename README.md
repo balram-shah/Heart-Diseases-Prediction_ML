@@ -129,6 +129,9 @@ AppLink: [(Web App link)](https://heart-diseases-prediction-ml-balramss.streamli
 An interactive web application was developed using Streamlit.
 <img width="1910" height="1002" alt="image" src="https://github.com/user-attachments/assets/8d3d4565-a67d-482d-8f4c-43ba5f6f2699" />
 
+<img width="1910" height="995" alt="image" src="https://github.com/user-attachments/assets/f176d70e-a46d-44f9-b680-be9c3ca1b600" />
+
+
 
 ## The app allows users to:
 ### 1️⃣ Dataset Overview
@@ -176,6 +179,8 @@ heart-disease-prediction
 
 ## 👨‍💻 Author
  Balram Shah
- GitHub: [(your GitHub link)](https://github.com/balram-shah)
+ GitHub: [(GitHub link)](https://github.com/balram-shah)
+ Linkedin: [(Linkedin link)](www.linkedin.com/in/balram-shah)
+ AppLink: [(Web App link)](https://heart-diseases-prediction-ml-balramss.streamlit.app/)
 
 ## ⭐ If you found this project useful, consider giving it a star on GitHub
